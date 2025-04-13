@@ -1,0 +1,47 @@
+{
+  "name": "Social Media Analytics Theme",
+  "dataColors": [
+    "#FF6B6B",
+    "#4ECDC4",
+    "#556270",
+    "#C7F464",
+    "#FFCC5C",
+    "#6B4226",
+    "#5D4E60",
+    "#8B9DC3",
+    "#3B5998",
+    "#DFE3EE"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#333333",
+  "tableAccent": "#FF6B6B",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "color": [{ "solid": { "color": "#333333" } }],
+        "background": [{ "solid": { "color": "#FFFFFF" } }],
+        "fontSize": [{ "value": 12 }]
+      }
+    },
+    "card": {
+      "*": {
+        "titleText": [{ "color": { "solid": { "color": "#4ECDC4" } }, "fontSize": { "value": 14 } }],
+        "labels": [{ "color": { "solid": { "color": "#FF6B6B" } } }]
+      }
+    },
+    "slicer": {
+      "*": {
+        "items": [{ "color": { "solid": { "color": "#333333" } } }],
+        "background": [{ "solid": { "color": "#FFFFFF" } }],
+        "titleText": [{ "color": { "solid": { "color": "#4ECDC4" } }, "fontSize": { "value": 14 } }]
+      }
+    },
+    "titleText": {
+      "*": {
+        "color": [{ "solid": { "color": "#4ECDC4" } }],
+        "fontSize": [{ "value": 16 }],
+        "fontFamily": "Segoe UI"
+      }
+    }
+  }
+}
