@@ -17,4 +17,16 @@ Dataset Creation:
 
 "Post types and platforms: Like Text, Video, In↓
 
-e across Facebook, Instagram, LinkedIn, and
+I created around 500 rows of data to ensure it's large enough to simulate business-level reporting but still manageable for a dashboard demo."
+
+Purpose of the Project:
+
+"The goal was to enable clear insights into:
+
+"How each platform is performing."
+
+"Which post types generate the most engagement."
+
+"Trends over time in reach, followers, and engagements."
+
+"The relationship between impressions and clicks."
